@@ -1,0 +1,661 @@
+[
+  {
+    "name": "Mozzarella sticks - 6 pieces",
+    "categoryKey": "sfiziosità",
+    "picture": "/assets/images/meals/tacos/Mozzarella_sticks.png",
+    "price": 5.70
+  },
+  {
+    "name": "Chilli Cheese Nuggets - 6 pieces",
+    "categoryKey": "sfiziosità",
+    "picture": "/assets/images/meals/tacos/Chilli Cheese Nugget.png",
+    "size": "extra-large",
+    "price": 5.70
+  },
+  
+  {
+    "name": "Patato speziate a spirale",
+    "categoryKey": "sfiziosità",
+    "picture": "/assets/images/meals/tacos/Patato_speziate.png",
+    "price": 3.00
+  },
+  {
+    "name": "Onion Rings - 9 pieces",
+    "categoryKey": "sfiziosità",
+    "picture": "/assets/images/meals/tacos/onion_rings.png",
+    "price": 5.50
+  },
+  {
+    "name": "Chilli Cheese Nuggets - 3 pieces",
+    "categoryKey": "sfiziosità",
+    "picture": "/assets/images/meals/tacos/Chilli Cheese Nugget.png",
+    "price": 3.70
+  },
+  {
+    "name": "Bocconcinidi pollo - 9 pieces",
+    "categoryKey": "sfiziosità",
+    "picture": "/assets/images/meals/tacos/Bocconcinidi_pollo.png",
+    "price": 6.50
+  },
+  {
+    "name": "Popcorn - 6 pieces",
+    "categoryKey": "sfiziosità",
+    "picture": "/assets/images/meals/tacos/Popcorn_.png",
+    "price": 3.90
+  },
+  {
+    "name": "Camemert bites - 6 pieces",
+    "categoryKey": "sfiziosità",
+    "picture": "/assets/images/meals/tacos/Camemert_bites_6.png",
+    "price": 5.70
+  },
+  {
+    "name": "Mozzarella sticks - 3 pieces",
+    "categoryKey": "sfiziosità",
+    "picture": "/assets/images/meals/tacos/Mozzarella_sticks.png",
+    "price": 3.00
+  },
+  {
+    "name": "Patatine con formaggio",
+    "categoryKey": "sfiziosità",
+    "picture": "/assets/images/meals/tacos/Patatine_con_formaggio.png",
+    "price": 3.50
+  },
+  {
+    "name": "Patato dippers",
+    "categoryKey": "sfiziosità",
+    "picture": "/assets/images/meals/tacos/Patato_dippers.png",
+    "price": 3.00
+  },
+  {
+    "name": "Patato wedges",
+    "categoryKey": "sfiziosità",
+    "picture": "/assets/images/meals/tacos/Patato_wedges.png",
+    "price": 3.00
+  },
+  {
+    "name": "Popcorn - 9 pieces",
+    "categoryKey": "sfiziosità",
+    "picture": "/assets/images/meals/tacos/Popcorn_.png",
+    "price": 6.10
+  },
+  {
+    "name": "Camemert bites - 3 pieces",
+    "categoryKey": "sfiziosità",
+    "picture": "/assets/images/meals/tacos/Camemert_bites_3.png",
+    "price": 3.00
+  },
+  {
+    "name": "Bocconcinidi pollo - 6 pieces",
+    "categoryKey": "sfiziosità",
+    "picture": "/assets/images/meals/tacos/Bocconcinidi_pollo.png",
+    "price": 4.80
+  },
+  {
+    "name": "Onion Rings - 6 pieces",
+    "categoryKey": "sfiziosità",
+    "picture": "/assets/images/meals/tacos/onion_rings.png",
+    "price": 4.50
+  },
+  {
+    "name": "Groviera wedges - 6 pieces",
+    "categoryKey": "sfiziosità",
+    "picture": "/assets/images/meals/tacos/Groviera_wedges.png",
+    "price": 5.70
+  },
+  {
+    "name": "Groviera wedges - 3 pieces",
+    "categoryKey": "sfiziosità",
+    "picture": "/assets/images/meals/tacos/wedges_3-.png",
+    "price": 3.70
+  },
+  {
+    "name": "Samosas - 3 pieces",
+    "categoryKey": "sfiziosità",
+    "picture": "/assets/images/meals/tacos/Samosas_3.png",
+    "price": 4.50
+  },
+  {
+    "name": "Samosas - 5 pieces",
+    "categoryKey": "sfiziosità",
+    "picture": "/assets/images/meals/tacos/Samosas_5.png",
+    "price": 5.90
+  },
+  {
+    "name": "Piadna kebab - singolo",
+    "categoryKey": "Kebab",
+    "picture": "/assets/images/meals/tacos/Mozzarella_sticks.png",
+    "price": 7.20
+  },
+  {
+    "name": "Panino kebab - singolo",
+    "categoryKey": "Kebab",
+    "picture": "/assets/images/meals/tacos/Chilli Cheese Nugget.png",
+    "size": "extra-large",
+    "price": 6.50
+  },
+  
+  {
+    "name": "Piadna kebab - menu",
+    "categoryKey": "Kebab",
+    "picture": "/assets/images/meals/tacos/Patato_speziate.png",
+    "price": 9.90
+  },
+  {
+    "name": "Piatto kebab - menu",
+    "categoryKey": "Kebab",
+    "picture": "/assets/images/meals/tacos/onion_rings.png",
+    "price": 9.90
+  },
+  {
+    "name": "Panino kebab - menu",
+    "categoryKey": "Kebab",
+    "picture": "/assets/images/meals/tacos/Chilli Cheese Nugget.png",
+    "price": 9.50
+  },
+  {
+    "name": "Supreme burger - menu",
+    "categoryKey": "chicken",
+    "picture": "/assets/images/meals/tacos/Mozzarella_sticks.png",
+    "price": 9.50
+  },
+  {
+  "name": "Supreme burger - singolo",
+    "categoryKey": "chicken",
+    "picture": "/assets/images/meals/tacos/Chilli Cheese Nugget.png",
+    "price": 6.50
+  },
+  
+  {
+    "name": "Chicken mix - singolo",
+    "categoryKey": "chicken",
+    "picture": "/assets/images/meals/tacos/Patato_speziate.png",
+    "price": 7.50
+  },
+  {
+    "name": "Chicken strips - singloo",
+    "categoryKey": "chicken",
+    "picture": "/assets/images/meals/tacos/onion_rings.png",
+    "price": 6.90
+  },
+  {
+      "name": "Chicken mix - menu",
+    "categoryKey": "chicken",
+    "picture": "/assets/images/meals/tacos/Chilli Cheese Nugget.png",
+    "price": 9.90
+  },
+  {
+    "name": "Piatto di pollo",
+    "categoryKey": "chicken",
+    "picture": "/assets/images/meals/tacos/Bocconcinidi_pollo.png",
+    "price": 9.90
+  },
+  {
+    "name": "Pollo al spiedo - singolo",
+    "categoryKey": "chicken",
+    "picture": "/assets/images/meals/tacos/Popcorn_.png",
+    "price": 12.00
+  },
+  {
+    "name": "Zinger burger - menu",
+    "categoryKey": "chicken",
+    "picture": "/assets/images/meals/tacos/Camemert_bites_6.png",
+    "price": 9.50
+  },
+  {
+    "name": "Hot spicy wings - singolo",
+    "categoryKey": "chicken",
+    "picture": "/assets/images/meals/tacos/Mozzarella_sticks.png",
+    "price": 7.90
+  },
+  {
+    "name": "Chicken burger - singolo",
+    "categoryKey": "chicken",
+    "picture": "/assets/images/meals/tacos/Patatine_con_formaggio.png",
+    "price": 6.10
+  },
+  {
+    "name": "Chicken burger - menu",
+    "categoryKey": "chicken",
+    "picture": "/assets/images/meals/tacos/Patato_dippers.png",
+    "price": 8.80
+  },
+  {
+    "name": "Naan grill tikka - menu",
+    "categoryKey": "chicken",
+    "picture": "/assets/images/meals/tacos/Popcorn_.png",
+    "price": 10.50
+  },
+  {
+    "name": "Chicken strips - menu",
+    "categoryKey": "chicken",
+    "picture": "/assets/images/meals/tacos/Camemert_bites_3.png",
+    "price": 9.90
+  },
+  {
+    "name": "Zinger burger - singolo",
+    "categoryKey": "chicken",
+    "picture": "/assets/images/meals/tacos/Bocconcinidi_pollo.png",
+    "price": 7.50
+  },
+  {
+    "name": "Naan grill tikka - singolo",
+    "categoryKey": "chicken",
+    "picture": "/assets/images/meals/tacos/onion_rings.png",
+    "price": 7.60
+  },
+  {
+    "name": "Chicken baguette - menu",
+    "categoryKey": "chicken",
+    "picture": "/assets/images/meals/tacos/Groviera_wedges.png",
+    "price": 9.50
+  },
+  {
+    "name": "Hot picy wings - menu",
+    "categoryKey": "chicken",
+    "picture": "/assets/images/meals/tacos/wedges_3-.png",
+    "price": 9.60
+  },
+  {
+    "name": "3 × chicken - singolo",
+    "categoryKey": "chicken",
+    "picture": "/assets/images/meals/tacos/Samosas_3.png",
+    "price": 6.50
+  },
+  {
+      "name": "3 × chicken - menu",
+    "categoryKey": "chicken",
+    "picture": "/assets/images/meals/tacos/Samosas_5.png",
+    "price": 8.90
+  },
+  {
+      "name": "Chicken permigiano - menu",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/Patato_wedges.png",
+      "price": 9.90
+    },
+    {
+      "name": "Chicken baguette - singolo",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/Popcorn_.png",
+      "price": 7.50
+    },
+    {
+      "name": "Piri piri burger - singolo",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/Camemert_bites_3.png",
+      "price": 7.40
+    },
+    {
+      "name": "Piri piri strips - singolo",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/Bocconcinidi_pollo.png",
+      "price": 5.50
+    },
+    {
+      "name": "Chicken permigiano - singolo",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/onion_rings.png",
+      "price": 7.60
+    },
+    {
+      "name": "Tikka burger - menu",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/Groviera_wedges.png",
+      "price": 8.90
+    },
+    {
+      "name": "Lemone chicken  - singolo",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/wedges_3-.png",
+      "price": 6.50
+    },
+    {
+      "name": "Tikka baguette - singolo",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/Samosas_3.png",
+      "price": 7.50
+    },
+    {
+      "name": "Chicken tikka - singolo",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/Camemert_bites_3.png",
+      "price": 5.50
+    },
+    {
+      "name": "Pollo intero al spiedo - menu",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/Bocconcinidi_pollo.png",
+      "price": 18.90
+    },
+    {
+      "name": "Tikka baguette - menu",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/Groviera_wedges.png",
+      "price": 9.50
+    },
+    {
+      "name": "Tikka burger  - singolo",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/wedges_3-.png",
+      "price": 6.40
+    },
+    {
+      "name": "Chicken tikka - menu",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/Samosas_3.png",
+      "price": 8.80
+    },
+    {
+      "name": "Piri piri strips - menu",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/Camemert_bites_3.png",
+      "price": 8.90
+    },
+    {
+      "name": "Lemone chicken  - menu",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/Camemert_bites_3.png",
+      "price": 9.50
+    },
+    {
+      "name": "Piri piri burger - menu",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/Bocconcinidi_pollo.png",
+      "price": 9.50
+    },
+    {
+      "name": "Vege wrap - singolo",
+      "categoryKey": "Vegetarian",
+      "picture": "/assets/images/meals/tacos/Mozzarella_sticks.png",
+      "price": 5.10
+    },
+    {
+      "name": "Vege wrap - menu",
+      "categoryKey": "Vegetarian",
+      "picture": "/assets/images/meals/tacos/Chilli Cheese Nugget.png",
+      "size": "extra-large",
+      "price": 8.70
+    },
+    
+    {
+      "name": "Vegetarino - singolo",
+      "categoryKey": "Vegetarian",
+      "picture": "/assets/images/meals/tacos/Patato_speziate.png",
+      "price": 5.30
+    },
+    {
+        "name": "Vegetarino - menu",
+      "categoryKey": "Vegetarian",
+      "picture": "/assets/images/meals/tacos/onion_rings.png",
+      "price": 8.10
+    },
+    {
+      "name": "Family menu 1",
+      "categoryKey": "Family",
+      "picture": "/assets/images/meals/tacos/Mozzarella_sticks.png",
+      "price": 24.90
+    },
+    {
+      "name": "Family menu 2",
+      "categoryKey": "Family",
+      "picture": "/assets/images/meals/tacos/Chilli Cheese Nugget.png",
+      "size": "extra-large",
+      "price": 26.90
+    },
+    
+    {
+      "name": "Family menu 3",
+      "categoryKey": "Family",
+      "picture": "/assets/images/meals/tacos/Patato_speziate.png",
+      "price": 27.70
+    },
+    {
+      "name": "Menu kids 5 con cheese burger",
+      "categoryKey": "Children's menu",
+      "picture": "/assets/images/meals/tacos/Mozzarella_sticks.png",
+      "price": 6.90
+    },
+    {
+      "name": "Menu kids 1",
+      "categoryKey": "Children's menu",
+      "picture": "/assets/images/meals/tacos/Chilli Cheese Nugget.png",
+      "size": "extra-large",
+      "price": 6.90
+    },
+    
+    {
+        "name": "Menu kids 2",
+      "categoryKey": "Children's menu",
+      "picture": "/assets/images/meals/tacos/Patato_speziate.png",
+      "price": 6.90
+    },
+    {
+        "name": "Menu kids 3",
+      "categoryKey": "Children's menu",
+      "picture": "/assets/images/meals/tacos/onion_rings.png",
+      "price": 6.90
+    },
+    {
+        "name": "Menu kids 4 con chicken burger",
+      "categoryKey": "Children's menu",
+      "picture": "/assets/images/meals/tacos/Chilli Cheese Nugget.png",
+      "price": 6.90
+    },
+    {
+      "name": "Smashed burger - menu",
+      "categoryKey": "Beef",
+      "picture": "/assets/images/meals/tacos/Mozzarella_sticks.png",
+      "price": 9.90
+    },
+    {
+      "name": "Triplo cheese burger - menu",
+      "categoryKey": "Beef",
+      "picture": "/assets/images/meals/tacos/Chilli Cheese Nugget.png",
+      "size": "extra-large",
+      "price": 9.90
+    },
+    
+    {
+      "name": "Mexican burger - menu",
+      "categoryKey": "Beef",
+      "picture": "/assets/images/meals/tacos/Patato_speziate.png",
+      "price": 9.99
+    },
+    {
+      "name": "Tirol burger - menu",
+      "categoryKey": "Beef",
+      "picture": "/assets/images/meals/tacos/onion_rings.png",
+      "price": 9.99
+    },
+    {
+      "name": "Tirol burger - singolo",
+      "categoryKey": "Beef",
+      "picture": "/assets/images/meals/tacos/Chilli Cheese Nugget.png",
+      "price": 7.99
+    },
+    {
+        "name": "Tirol cheese burger - singolo",
+      "categoryKey": "Beef",
+      "picture": "/assets/images/meals/tacos/Bocconcinidi_pollo.png",
+      "price": 7.90
+    },
+    {
+      "name": "Smashed burger - singolo",
+      "categoryKey": "Beef",
+      "picture": "/assets/images/meals/tacos/Popcorn_.png",
+      "price": 7.90
+    },
+    {
+      "name": "Mexican burger - singolo",
+      "categoryKey": "Beef",
+      "picture": "/assets/images/meals/tacos/Camemert_bites_6.png",
+      "price": 7.90
+    },
+    {
+      "name": "Cheese burger - singolo",
+      "categoryKey": "Beef",
+      "picture": "/assets/images/meals/tacos/Mozzarella_sticks.png",
+      "price": 5.50
+    },
+    {
+      "name": "Doppio cheese burger - menu",
+      "categoryKey": "Beef",
+      "picture": "/assets/images/meals/tacos/Patatine_con_formaggio.png",
+      "price": 8.70
+    },
+    {
+      "name": "Doppio cheese burger - singolo",
+      "categoryKey": "Beef",
+      "picture": "/assets/images/meals/tacos/Patato_dippers.png",
+      "price": 6.30
+    },
+    {
+      "name": "Special burger - singolo",
+      "categoryKey": "Beef",
+      "picture": "/assets/images/meals/tacos/Patato_wedges.png",
+      "price": 5.80
+    },
+    {
+      "name": "Beef parmigiano - menu",
+      "categoryKey": "Beef",
+      "picture": "/assets/images/meals/tacos/Popcorn_.png",
+      "price": 9.90
+    },
+    {
+      "name": "Beef parmigiano - singolo",
+      "categoryKey": "Beef",
+      "picture": "/assets/images/meals/tacos/Camemert_bites_3.png",
+      "price": 6.50
+    },
+    {
+      "name": "Special burger - menu",
+      "categoryKey": "Beef",
+      "picture": "/assets/images/meals/tacos/Bocconcinidi_pollo.png",
+      "price": 8.50
+    },
+    {
+      "name": "Cheese burger - menu",
+      "categoryKey": "Beef",
+      "picture": "/assets/images/meals/tacos/onion_rings.png",
+      "price": 8.50
+    },
+    {
+      "name": "Fillet-fish - singolo",
+      "categoryKey": "Fish",
+      "picture": "/assets/images/meals/tacos/Mozzarella_sticks.png",
+      "price": 6.50
+    },
+    {
+        "name": "Fillet-fish - menu",
+      "categoryKey": "Fish",
+      "picture": "/assets/images/meals/tacos/Chilli Cheese Nugget.png",
+      "price": 8.50
+    },
+    {
+      "name": "Insalata greca - singolo",
+      "categoryKey": "Salted",
+      "picture": "/assets/images/meals/tacos/Mozzarella_sticks.png",
+      "price": 6.30
+    },
+    {
+      "name": "Insalata greca - menu",
+      "categoryKey": "Salted",
+      "picture": "/assets/images/meals/tacos/Chilli Cheese Nugget.png",
+      "size": "extra-large",
+      "price": 8.80
+    },
+    
+    {
+      "name": "Insalata con pollo  - singolo",
+      "categoryKey": "Salted",
+      "picture": "/assets/images/meals/tacos/Patato_speziate.png",
+      "price": 7.30
+    },
+    {
+      "name": "Insalata con pollo  - menu",
+      "categoryKey": "Salted",
+      "picture": "/assets/images/meals/tacos/onion_rings.png",
+      "price": 9.50
+    },
+    {
+      "name": "Insalata con pollo tikka - singolo",
+      "categoryKey": "Salted",
+      "picture": "/assets/images/meals/tacos/Chilli Cheese Nugget.png",
+      "price": 7.30
+    },
+    {
+      "name": "Insalata con pollo tikka - menu",
+      "categoryKey": "Salted",
+      "picture": "/assets/images/meals/tacos/Bocconcinidi_pollo.png",
+      "price": 9.50
+    },
+    {
+      "name": "Coca-cola 1.5l",
+      "categoryKey": "drinks",
+      "picture": "/assets/images/categories/drinks.webp",
+      "price": 4.50
+    },
+    {
+        "name": "Coca-cola 33cl",
+      "categoryKey": "drinks",
+      "picture": "/assets/images/categories/drinks.webp",
+      "size": "extra-large",
+      "price": 2.50
+    },
+    
+    {
+        "name": "Coca-cola Zero 33cl",
+      "categoryKey": "drinks",
+      "picture": "/assets/images/categories/drinks.webp",
+      "price": 2.50
+    },
+    {
+      "name": "The Pesca 33cl",
+      "categoryKey": "drinks",
+      "picture": "/assets/images/categories/drinks.webp",
+      "price": 2.50
+    },
+    {
+      "name": "Sprite 33cl",
+      "categoryKey": "drinks",
+      "picture": "/assets/images/categories/drinks.webp",
+      "price": 2.50
+    },
+    {
+      "name": "Fanta 33cl",
+      "categoryKey": "drinks",
+      "picture": "/assets/images/categories/drinks.webp",
+      "price": 2.50
+    },
+    {
+      "name": "Succo ACE Mirtilli 33cl",
+      "categoryKey": "drinks",
+      "picture": "/assets/images/categories/drinks.webp",
+      "price": 2.80
+    },
+    {
+      "name": "Red Bull 33cl",
+      "categoryKey": "drinks",
+      "picture": "/assets/images/categories/drinks.webp",
+      "price": 3.50
+    },
+    {
+      "name": "The limone 33cl",
+      "categoryKey": "drinks",
+      "picture": "/assets/images/categories/drinks.webp",
+      "price": 2.50
+    },
+    {
+      "name": "Succo ACE pesca 33cl",
+      "categoryKey": "drinks",
+      "picture": "/assets/images/categories/drinks.webp",
+      "price": 2.80
+    },
+    {
+      "name": "Moonster 33cl",
+      "categoryKey": "drinks",
+      "picture": "/assets/images/categories/drinks.webp",
+      "price": 3.50
+    }
+]

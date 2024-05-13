@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Family menu 1",
+      "categoryKey": "Family",
+      "picture": "/assets/images/meals/tacos/Mozzarella_sticks.png",
+      "price": 24.90
+    },
+    {
+      "name": "Family menu 2",
+      "categoryKey": "Family",
+      "picture": "/assets/images/meals/tacos/Chilli Cheese Nugget.png",
+      "size": "extra-large",
+      "price": 26.90
+    },
+    
+    {
+      "name": "Family menu 3",
+      "categoryKey": "Family",
+      "picture": "/assets/images/meals/tacos/Patato_speziate.png",
+      "price": 27.70
+    }
+  ]
+  

@@ -1,0 +1,29 @@
+[
+    {
+      "name": "Vege wrap - singolo",
+      "categoryKey": "Vegetarian",
+      "picture": "/assets/images/meals/Vegetarian/Vege_wrap.png",
+      "price": 5.10
+    },
+    {
+      "name": "Vege wrap - menu",
+      "categoryKey": "Vegetarian",
+      "picture": "/assets/images/meals/tacos/Chilli Cheese Nugget.png",
+      "size": "extra-large",
+      "price": 8.70
+    },
+    
+    {
+      "name": "Vegetarino - singolo",
+      "categoryKey": "Vegetarian",
+      "picture": "/assets/images/meals/tacos/Patato_speziate.png",
+      "price": 5.30
+    },
+    {
+        "name": "Vegetarino - menu",
+      "categoryKey": "Vegetarian",
+      "picture": "/assets/images/meals/tacos/onion_rings.png",
+      "price": 8.10
+    }
+  ]
+  

@@ -1,0 +1,41 @@
+[
+    {
+      "name": "Insalata greca - singolo",
+      "categoryKey": "Salted",
+      "picture": "/assets/images/meals/tacos/Mozzarella_sticks.png",
+      "price": 6.30
+    },
+    {
+      "name": "Insalata greca - menu",
+      "categoryKey": "Salted",
+      "picture": "/assets/images/meals/tacos/Chilli Cheese Nugget.png",
+      "size": "extra-large",
+      "price": 8.80
+    },
+    
+    {
+      "name": "Insalata con pollo  - singolo",
+      "categoryKey": "Salted",
+      "picture": "/assets/images/meals/tacos/Patato_speziate.png",
+      "price": 7.30
+    },
+    {
+      "name": "Insalata con pollo  - menu",
+      "categoryKey": "Salted",
+      "picture": "/assets/images/meals/tacos/onion_rings.png",
+      "price": 9.50
+    },
+    {
+      "name": "Insalata con pollo tikka - singolo",
+      "categoryKey": "Salted",
+      "picture": "/assets/images/meals/tacos/Chilli Cheese Nugget.png",
+      "price": 7.30
+    },
+    {
+      "name": "Insalata con pollo tikka - menu",
+      "categoryKey": "Salted",
+      "picture": "/assets/images/meals/tacos/Bocconcinidi_pollo.png",
+      "price": 9.50
+    }
+  ]
+  

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "mayonnaise",
+    "picture": "/assets/images/options/sauce/mayo.webp",
+    "price": 0.30
+  },
+  {
+    "name": "Ketchup",
+    "picture": "/assets/images/options/sauce/ketchup.webp",
+    "price": 0.30
+  },
+  {
+    "name": "Garlic",
+    "picture": "/assets/images/options/sauce/moutarde.webp",
+    "price": 0.30
+  },
+  {
+    "name": "Piri piri",
+    "picture": "/assets/images/options/sauce/andalouse.webp",
+    "price": 0.30
+  }
+]

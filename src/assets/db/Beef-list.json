@@ -1,0 +1,102 @@
+[
+    {
+      "name": "Smashed burger - menu",
+      "categoryKey": "Beef",
+      "picture": "/assets/images/meals/Beef/Beef_parmigiano.png",
+      "price": 9.90
+    },
+    {
+      "name": "Triplo cheese burger - menu",
+      "categoryKey": "Beef",
+      "picture": "/assets/images/meals/tacos/Chilli Cheese Nugget.png",
+      "size": "extra-large",
+      "price": 9.90
+    },
+    
+    {
+      "name": "Mexican burger - menu",
+      "categoryKey": "Beef",
+      "picture": "/assets/images/meals/tacos/Patato_speziate.png",
+      "price": 9.99
+    },
+    {
+      "name": "Tirol burger - menu",
+      "categoryKey": "Beef",
+      "picture": "/assets/images/meals/tacos/onion_rings.png",
+      "price": 9.99
+    },
+    {
+      "name": "Tirol burger - singolo",
+      "categoryKey": "Beef",
+      "picture": "/assets/images/meals/tacos/Chilli Cheese Nugget.png",
+      "price": 7.99
+    },
+    {
+        "name": "Tirol cheese burger - singolo",
+      "categoryKey": "Beef",
+      "picture": "/assets/images/meals/tacos/Bocconcinidi_pollo.png",
+      "price": 7.90
+    },
+    {
+      "name": "Smashed burger - singolo",
+      "categoryKey": "Beef",
+      "picture": "/assets/images/meals/tacos/Popcorn_.png",
+      "price": 7.90
+    },
+    {
+      "name": "Mexican burger - singolo",
+      "categoryKey": "Beef",
+      "picture": "/assets/images/meals/tacos/Camemert_bites_6.png",
+      "price": 7.90
+    },
+    {
+      "name": "Cheese burger - singolo",
+      "categoryKey": "Beef",
+      "picture": "/assets/images/meals/tacos/Mozzarella_sticks.png",
+      "price": 5.50
+    },
+    {
+      "name": "Doppio cheese burger - menu",
+      "categoryKey": "Beef",
+      "picture": "/assets/images/meals/tacos/Patatine_con_formaggio.png",
+      "price": 8.70
+    },
+    {
+      "name": "Doppio cheese burger - singolo",
+      "categoryKey": "Beef",
+      "picture": "/assets/images/meals/tacos/Patato_dippers.png",
+      "price": 6.30
+    },
+    {
+      "name": "Special burger - singolo",
+      "categoryKey": "Beef",
+      "picture": "/assets/images/meals/tacos/Patato_wedges.png",
+      "price": 5.80
+    },
+    {
+      "name": "Beef parmigiano - menu",
+      "categoryKey": "Beef",
+      "picture": "/assets/images/meals/tacos/Popcorn_.png",
+      "price": 9.90
+    },
+    {
+      "name": "Beef parmigiano - singolo",
+      "categoryKey": "Beef",
+      "picture": "/assets/images/meals/tacos/Camemert_bites_3.png",
+      "price": 6.50
+    },
+    {
+      "name": "Special burger - menu",
+      "categoryKey": "Beef",
+      "picture": "/assets/images/meals/tacos/Bocconcinidi_pollo.png",
+      "price": 8.50
+    },
+    {
+      "name": "Cheese burger - menu",
+      "categoryKey": "Beef",
+      "picture": "/assets/images/meals/tacos/onion_rings.png",
+      "price": 8.50
+    }
+    
+  ]
+  

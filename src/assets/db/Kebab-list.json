@@ -1,0 +1,35 @@
+[
+    {
+      "name": "Piadna kebab - singolo",
+      "categoryKey": "Kebab",
+      "picture": "/assets/images/meals/tacos/Piadna_kebab-singolo.png",
+      "price": 7.20
+    },
+    {
+      "name": "Panino kebab - singolo",
+      "categoryKey": "Kebab",
+      "picture": "/assets/images/meals/tacos/Chilli Cheese Nugget.png",
+      "size": "extra-large",
+      "price": 6.50
+    },
+    
+    {
+      "name": "Piadna kebab - menu",
+      "categoryKey": "Kebab",
+      "picture": "/assets/images/meals/tacos/Patato_speziate.png",
+      "price": 9.90
+    },
+    {
+      "name": "Piatto kebab - menu",
+      "categoryKey": "Kebab",
+      "picture": "/assets/images/meals/tacos/onion_rings.png",
+      "price": 9.90
+    },
+    {
+      "name": "Panino kebab - menu",
+      "categoryKey": "Kebab",
+      "picture": "/assets/images/meals/tacos/Chilli Cheese Nugget.png",
+      "price": 9.50
+    }
+  ]
+  

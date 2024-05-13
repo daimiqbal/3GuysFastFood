@@ -1,0 +1,35 @@
+[
+    {
+      "name": "Menu kids 5 con cheese burger",
+      "categoryKey": "Children's menu",
+      "picture": "/assets/images/meals/tacos/Mozzarella_sticks.png",
+      "price": 6.90
+    },
+    {
+      "name": "Menu kids 1",
+      "categoryKey": "Children's menu",
+      "picture": "/assets/images/meals/tacos/Chilli Cheese Nugget.png",
+      "size": "extra-large",
+      "price": 6.90
+    },
+    
+    {
+        "name": "Menu kids 2",
+      "categoryKey": "Children's menu",
+      "picture": "/assets/images/meals/tacos/Patato_speziate.png",
+      "price": 6.90
+    },
+    {
+        "name": "Menu kids 3",
+      "categoryKey": "Children's menu",
+      "picture": "/assets/images/meals/tacos/onion_rings.png",
+      "price": 6.90
+    },
+    {
+        "name": "Menu kids 4 con chicken burger",
+      "categoryKey": "Children's menu",
+      "picture": "/assets/images/meals/tacos/Chilli Cheese Nugget.png",
+      "price": 6.90
+    }
+  ]
+  

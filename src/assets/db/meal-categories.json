@@ -1,0 +1,52 @@
+[
+  {
+    "name": "sfiziosità",
+    "picture": "/assets/images/categories/tacos.webp", 
+    "key": "sfiziosità"
+  },
+  {
+    "name": "Kebab",
+    "picture": "/assets/images/categories/kebabs.png",
+    "key": "Kebab"
+  },
+  {
+    "name": "Chicken",
+    "picture": "/assets/images/categories/chicken.webp",
+    "key": "chicken"
+  },
+  {
+    "name": "Vegetarian",
+    "picture": "/assets/images/categories/vegitarian.png",
+    "key": "Vegetarian"
+  },
+  {
+    "name": "Family",
+    "picture": "/assets/images/categories/family menu.png",
+    "key": "Family"
+  },
+  {
+    "name": "Children's menu",
+    "picture": "/assets/images/categories/children menu.png",
+    "key": "Children's menu"
+  },
+  {
+    "name": "Beef",
+    "picture": "/assets/images/categories/beef menu.png",
+    "key": "Beef"
+  },
+  {
+    "name": "Fish",
+    "picture": "/assets/images/categories/fish menu.png",
+    "key": "Fish"
+  },
+  {
+    "name": "Salted",
+    "picture": "/assets/images/categories/salted menu.png",
+    "key": "Salted"
+  },
+  {
+    "name": "Drinks",
+    "picture": "/assets/images/categories/drinks.webp",
+    "key": "drinks"
+  }
+]

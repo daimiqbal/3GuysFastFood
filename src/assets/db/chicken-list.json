@@ -1,0 +1,214 @@
+[
+    {
+      "name": "Supreme burger - menu",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/Mozzarella_sticks.png",
+      "price": 9.50
+    },
+    {
+    "name": "Supreme burger - singolo",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/Chilli Cheese Nugget.png",
+      "price": 6.50
+    },
+    
+    {
+      "name": "Chicken mix - singolo",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/Patato_speziate.png",
+      "price": 7.50
+    },
+    {
+      "name": "Chicken strips - singloo",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/onion_rings.png",
+      "price": 6.90
+    },
+    {
+        "name": "Chicken mix - menu",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/Chilli Cheese Nugget.png",
+      "price": 9.90
+    },
+    {
+      "name": "Piatto di pollo",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/Bocconcinidi_pollo.png",
+      "price": 9.90
+    },
+    {
+      "name": "Pollo al spiedo - singolo",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/Popcorn_.png",
+      "price": 12.00
+    },
+    {
+      "name": "Zinger burger - menu",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/Camemert_bites_6.png",
+      "price": 9.50
+    },
+    {
+      "name": "Hot spicy wings - singolo",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/Mozzarella_sticks.png",
+      "price": 7.90
+    },
+    {
+      "name": "Chicken burger - singolo",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/Patatine_con_formaggio.png",
+      "price": 6.10
+    },
+    {
+      "name": "Chicken burger - menu",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/Patato_dippers.png",
+      "price": 8.80
+    },
+    {
+      "name": "Naan grill tikka - menu",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/Popcorn_.png",
+      "price": 10.50
+    },
+    {
+      "name": "Chicken strips - menu",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/Camemert_bites_3.png",
+      "price": 9.90
+    },
+    {
+      "name": "Zinger burger - singolo",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/Bocconcinidi_pollo.png",
+      "price": 7.50
+    },
+    {
+      "name": "Naan grill tikka - singolo",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/onion_rings.png",
+      "price": 7.60
+    },
+    {
+      "name": "Chicken baguette - menu",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/Groviera_wedges.png",
+      "price": 9.50
+    },
+    {
+      "name": "Hot picy wings - menu",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/wedges_3-.png",
+      "price": 9.60
+    },
+    {
+      "name": "3 × chicken - singolo",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/Samosas_3.png",
+      "price": 6.50
+    },
+    {
+        "name": "3 × chicken - menu",
+      "categoryKey": "chicken",
+      "picture": "/assets/images/meals/tacos/Samosas_5.png",
+      "price": 8.90
+    },
+    {
+        "name": "Chicken permigiano - menu",
+        "categoryKey": "chicken",
+        "picture": "/assets/images/meals/tacos/Patato_wedges.png",
+        "price": 9.90
+      },
+      {
+        "name": "Chicken baguette - singolo",
+        "categoryKey": "chicken",
+        "picture": "/assets/images/meals/tacos/Popcorn_.png",
+        "price": 7.50
+      },
+      {
+        "name": "Piri piri burger - singolo",
+        "categoryKey": "chicken",
+        "picture": "/assets/images/meals/tacos/Camemert_bites_3.png",
+        "price": 7.40
+      },
+      {
+        "name": "Piri piri strips - singolo",
+        "categoryKey": "chicken",
+        "picture": "/assets/images/meals/tacos/Bocconcinidi_pollo.png",
+        "price": 5.50
+      },
+      {
+        "name": "Chicken permigiano - singolo",
+        "categoryKey": "chicken",
+        "picture": "/assets/images/meals/tacos/onion_rings.png",
+        "price": 7.60
+      },
+      {
+        "name": "Tikka burger - menu",
+        "categoryKey": "chicken",
+        "picture": "/assets/images/meals/tacos/Groviera_wedges.png",
+        "price": 8.90
+      },
+      {
+        "name": "Lemone chicken  - singolo",
+        "categoryKey": "chicken",
+        "picture": "/assets/images/meals/tacos/wedges_3-.png",
+        "price": 6.50
+      },
+      {
+        "name": "Tikka baguette - singolo",
+        "categoryKey": "chicken",
+        "picture": "/assets/images/meals/tacos/Samosas_3.png",
+        "price": 7.50
+      },
+      {
+        "name": "Chicken tikka - singolo",
+        "categoryKey": "chicken",
+        "picture": "/assets/images/meals/tacos/Camemert_bites_3.png",
+        "price": 5.50
+      },
+      {
+        "name": "Pollo intero al spiedo - menu",
+        "categoryKey": "chicken",
+        "picture": "/assets/images/meals/tacos/Bocconcinidi_pollo.png",
+        "price": 18.90
+      },
+      {
+        "name": "Tikka baguette - menu",
+        "categoryKey": "chicken",
+        "picture": "/assets/images/meals/tacos/Groviera_wedges.png",
+        "price": 9.50
+      },
+      {
+        "name": "Tikka burger  - singolo",
+        "categoryKey": "chicken",
+        "picture": "/assets/images/meals/tacos/wedges_3-.png",
+        "price": 6.40
+      },
+      {
+        "name": "Chicken tikka - menu",
+        "categoryKey": "chicken",
+        "picture": "/assets/images/meals/tacos/Samosas_3.png",
+        "price": 8.80
+      },
+      {
+        "name": "Piri piri strips - menu",
+        "categoryKey": "chicken",
+        "picture": "/assets/images/meals/tacos/Camemert_bites_3.png",
+        "price": 8.90
+      },
+      {
+        "name": "Lemone chicken  - menu",
+        "categoryKey": "chicken",
+        "picture": "/assets/images/meals/tacos/Camemert_bites_3.png",
+        "price": 9.50
+      },
+      {
+        "name": "Piri piri burger - menu",
+        "categoryKey": "chicken",
+        "picture": "/assets/images/meals/tacos/Bocconcinidi_pollo.png",
+        "price": 9.50
+      }
+  ]
+  

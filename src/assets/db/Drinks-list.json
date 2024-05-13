@@ -1,0 +1,71 @@
+[
+    {
+      "name": "Coca-cola 1.5l",
+      "categoryKey": "drinks",
+      "picture": "/assets/images/categories/drinks.webp",
+      "price": 4.50
+    },
+    {
+        "name": "Coca-cola 33cl",
+      "categoryKey": "drinks",
+      "picture": "/assets/images/categories/drinks.webp",
+      "size": "extra-large",
+      "price": 2.50
+    },
+    
+    {
+        "name": "Coca-cola Zero 33cl",
+      "categoryKey": "drinks",
+      "picture": "/assets/images/categories/drinks.webp",
+      "price": 2.50
+    },
+    {
+      "name": "The Pesca 33cl",
+      "categoryKey": "drinks",
+      "picture": "/assets/images/categories/drinks.webp",
+      "price": 2.50
+    },
+    {
+      "name": "Sprite 33cl",
+      "categoryKey": "drinks",
+      "picture": "/assets/images/categories/drinks.webp",
+      "price": 2.50
+    },
+    {
+      "name": "Fanta 33cl",
+      "categoryKey": "drinks",
+      "picture": "/assets/images/categories/drinks.webp",
+      "price": 2.50
+    },
+    {
+      "name": "Succo ACE Mirtilli 33cl",
+      "categoryKey": "drinks",
+      "picture": "/assets/images/categories/drinks.webp",
+      "price": 2.80
+    },
+    {
+      "name": "Red Bull 33cl",
+      "categoryKey": "drinks",
+      "picture": "/assets/images/categories/drinks.webp",
+      "price": 3.50
+    },
+    {
+      "name": "The limone 33cl",
+      "categoryKey": "drinks",
+      "picture": "/assets/images/categories/drinks.webp",
+      "price": 2.50
+    },
+    {
+      "name": "Succo ACE pesca 33cl",
+      "categoryKey": "drinks",
+      "picture": "/assets/images/categories/drinks.webp",
+      "price": 2.80
+    },
+    {
+      "name": "Moonster 33cl",
+      "categoryKey": "drinks",
+      "picture": "/assets/images/categories/drinks.webp",
+      "price": 3.50
+    }
+  ]
+  
